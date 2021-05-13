@@ -1,4 +1,3 @@
-setwd("/Users/camp426/OneDrive - PNNL/Documents/PNNL/Projects/FY21/HydroWiresC/data/2020")
 library(lubridate)
 require(ggplot2)
 library(tidyquant)
